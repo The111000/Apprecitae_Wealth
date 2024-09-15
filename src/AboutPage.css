@@ -1,0 +1,50 @@
+.about-container {
+  min-height: 100vh;
+  padding: 32px;
+  background: linear-gradient(to right, #4ade80, #f6863b);
+}
+
+.about-card {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-title {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.about-content {
+  color: #4b5563;
+}
+
+.about-content p {
+  margin-bottom: 16px;
+}
+
+.about-features {
+  margin-top: 24px;
+}
+
+.feature-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.feature-list {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.feature-list li {
+  margin-bottom: 8px;
+}
+
+.back-link {
+  display: block;
+  text-align: center;
+  margin-top: 32px;
+}
